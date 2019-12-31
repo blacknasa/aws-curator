@@ -48,7 +48,7 @@ variable "index" {
 }
 
 variable "delete_after" {
-  description = "Numbers of days to preserve"
+  description = "Numbers of days to preserve logs"
   default     = 15
 }
 
